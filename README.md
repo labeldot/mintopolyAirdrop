@@ -2,7 +2,7 @@
 
 **Note: to view the results of each airdrop transaction and prize distribution, click on each round's txt file in this repo.**
 
-This repo records the airdrop results for the Mintopoly! Money awards. Each week, the top X finishers recieve an airdrop of our ERC-20 token (Mintopoly! Money) based on their net worth and finish position. The distribution formula works like this...
+This repo records the airdrop results for the Mintopoly round awards. Each week, the top X finishers recieve an airdrop of our ERC-20 token (Mintopoly Money) based on their net worth and finish position. The distribution formula works like this...
 
 1. Tally net worth of combined top n (typically 250-500) players
 2. Loop through each player, in order of rank. For each:
